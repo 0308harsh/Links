@@ -75,4 +75,10 @@
    .heading h1, h2,h3{
     color: #fff;
    }
+   .content a{
+    margin-left: 1px;
+    margin-right: 25px;
+    font-size: 20px;
+   }
    
+
